@@ -19,7 +19,7 @@ This program will require the installer to use the Streamlit Library to run web-
 
 ## Program Screenshot
 
-![Screenshot of Program](Module_19_Challenge_19/Screenshots/Screen Shot 2022-02-05 at 8.20.19 PM.png)
+![Screenshot of Program](https://github.com/eliassantibanez/Module_19_Challenge_19/blob/main/Screenshots/Screen%20Shot%202022-02-05%20at%208.20.19%20PM.png)
 
 
 ---
